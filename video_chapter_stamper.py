@@ -16,7 +16,8 @@
 
 
 # Raw Program Item Refine
-f_raw = open(r"./program_item.md","r")
+raw_filename = input("Please input the raw file's filename: ")
+f_raw = open(r"./" + raw_filename,"r")
 raw_full = f_raw.read()
 raw_full = raw_full.split("\n")
 
