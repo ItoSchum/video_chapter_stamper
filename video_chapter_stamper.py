@@ -1,13 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*- 
 
-# Video Timescale Cal Ref
-# >>> 50*60+31
-# 3031
-# >>> 48*60+47
-# 2927
-# >>> 44*60+26
-# 2666
 
 # Prepare
 	# Shell Command
