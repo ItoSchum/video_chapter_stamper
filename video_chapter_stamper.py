@@ -39,7 +39,7 @@ for i in range(len(raw_full)):
 
 # Raw Video Length Calculate
 metadata_title = input("Please input the metadata's Title info: ")
-metadata_artist = input("Please input the metadata's Aritst info: ")
+metadata_artist = input(" Please input the metadata's Artist info:")
 video_section_amount = input("How many sections are there? ")
 # video_section_amount = 3
 video_section_length = []
