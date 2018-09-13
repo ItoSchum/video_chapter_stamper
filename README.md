@@ -14,6 +14,10 @@
    When **`Please input the metadata's Artist info: `** Displayed, please enter `aritist` you want to presented in the metadata.
    When **`How many sections are there? `** Displayed, please enter `section amount` of the video.
    When **`Please input the section time length in [MM:SS] format: `** Displayed, please enter the `time length` of each video section.
+
+- Reference
+	- `sample.txt` can be used for test. 
+	- `output_metadata_sample` is the author's test output reference.
    
 ## Attention
 - The script only available for some format info file.
