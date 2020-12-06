@@ -1,0 +1,104 @@
+;FFMETADATA
+title=Magical Mirai 2020 Osaka Day3
+artist=Hatsune Miku & V.A.
+
+[CHAPTER]
+TIMEBASE=1/1
+START=0
+END=569
+title=0. Opening
+[CHAPTER]
+TIMEBASE=1/1
+START=360
+END=569
+title=1. 太陽系デスコ 
+[CHAPTER]
+TIMEBASE=1/1
+START=570
+END=819
+title=2. ハイパーリアリティショウ 
+[CHAPTER]
+TIMEBASE=1/1
+START=820
+END=1059
+title=3. YY 
+[CHAPTER]
+TIMEBASE=1/1
+START=1060
+END=1299
+title=4. シャボン 
+[CHAPTER]
+TIMEBASE=1/1
+START=1300
+END=1524
+title=5. Gimme×Gimme 
+[CHAPTER]
+TIMEBASE=1/1
+START=1525
+END=1769
+title=6. みかぼし 
+[CHAPTER]
+TIMEBASE=1/1
+START=1770
+END=2074
+title=7. まるいうなばら 
+[CHAPTER]
+TIMEBASE=1/1
+START=2075
+END=2284
+title=8. Nostalogic 
+[CHAPTER]
+TIMEBASE=1/1
+START=2285
+END=2524
+title=9. Amazing Dolce 
+[CHAPTER]
+TIMEBASE=1/1
+START=2525
+END=2819
+title=10. きみとぼくのレゾデンス 
+[CHAPTER]
+TIMEBASE=1/1
+START=2820
+END=3079
+title=11. 完全性コンプレックス 
+[CHAPTER]
+TIMEBASE=1/1
+START=3080
+END=3249
+title=12. Band Intro
+[CHAPTER]
+TIMEBASE=1/1
+START=3250
+END=3559
+title=13. アンノウン・マザーグース 
+[CHAPTER]
+TIMEBASE=1/1
+START=3560
+END=3759
+title=14. 初音ミクの激唱 
+[CHAPTER]
+TIMEBASE=1/1
+START=3760
+END=3984
+title=15. キミペディア 
+[CHAPTER]
+TIMEBASE=1/1
+START=3985
+END=4244
+title=16. セカイ 
+[CHAPTER]
+TIMEBASE=1/1
+START=4245
+END=4789
+title=17. Hand in Hand 
+[CHAPTER]
+TIMEBASE=1/1
+START=4790
+END=5104
+title=18. 命に嫌われている。 
+[CHAPTER]
+TIMEBASE=1/1
+START=5105
+END=5495
+title=19. 愛されなくても君がいる 

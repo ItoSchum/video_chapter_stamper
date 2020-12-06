@@ -1,23 +1,21 @@
 # Video Chapter Stamper
 ## Main Feature
-- Refine chapter info for mp4 / mkv videos from video info files.
+- Generate chapter metadata for mp4 / mkv videos by csv.
 
 ## Requirement
 - `Python3` is required.
 
 ## Usage
-1. Put your original chapter info file in `[some_directory]`.
-2. Change your Teriminal's current directory to `[some_directory]`.
-3. Run the script.
-4. When **`Please input the raw file's filename: `** Diasplayed, please enter the original chapter info file's `filename` 
-   When **`Please input the metadata's Title info: `** Displayed, please enter `title` you want to be presented in the metadata.
-   When **`Please input the metadata's Artist info: `** Displayed, please enter `aritist` you want to presented in the metadata.
-   When **`How many sections are there? `** Displayed, please enter `section amount` of the video.
-   When **`Please input the section time length in [MM:SS] format: `** Displayed, please enter the `time length` of each video section.
+1. Change Terminal's current directory to the chapter metadata's directory.
+2. Run the script via `Python3`.
+3. When **`Please input the raw file's filename: `** diasplayed, enter the  filename of the csv chapter metadata.
 
-- Reference
-	- `sample.txt` can be used for test. 
-	- `output_metadata_sample` is the author's test output reference.
+   When **`Please input the vido duration in format [MM:SS]: `** Displayed, enter the video duration in second.
    
-## Attention
-- The script only available for some format info file.
+   When **`Please input the metadata's Title info: `** displayed, enter the `title` you want to be display in the metadata.
+   
+   When **`Please input the metadata's Artist info: `** displayed, enter the `artist` you want to display in the metadata.
+   
+- Reference
+	- `sample_input.csv` is the input template. 
+	- `sample_output.txt` is the output template.
